@@ -1,8 +1,8 @@
 server:
-  port: 9898 #????
+  port: 9899
 spring:
   application:
-    name: freemarker-demo #?????
+    name: freemarker-demo
   freemarker:
     cache: false  #???????????
     settings:
